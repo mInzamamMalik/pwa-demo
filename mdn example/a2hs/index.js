@@ -9,7 +9,7 @@ function randomValueFromArray(array) {
 setInterval(() => {
   const randomChoice = randomValueFromArray(images);
   imgElem.src = `./images/${randomChoice}.jpg`;
-}, 199000);
+}, 10000);
 
 // Register service worker to control making site work offline
 
