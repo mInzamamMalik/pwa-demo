@@ -16,3 +16,12 @@ https://medium.com/codingthesmartway-com-blog/getting-started-with-progressive-w
 
 
 https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps
+
+
+<hr>
+videos: https://www.youtube.com/playlist?list=PL8p2I9GklV44pmaVnDH2-rl_0Mhs5AHW2
+
+
+for pwa assert icons: https://github.com/onderceylan/pwa-asset-generator  `pwa-asset-generator logo.svg -i ./index.html -m ./manifest.json`
+
+for favicon: https://favicon.io/favicon-converter/
